@@ -1,3 +1,6 @@
 partner list
-Boot.dev
+<<<<<<< HEAD
+SalesInc
+=======
+>>>>>>> e8889cd (F: deleting records for fun)
 TheStartup
